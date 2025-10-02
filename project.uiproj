@@ -1,0 +1,6 @@
+{
+  "Name": "Ui Path Training Course",
+  "ProjectType": "Process",
+  "Description": "This contains all the xaml files form the playlist with their video names on it",
+  "MainFile": "Main.xaml"
+}
